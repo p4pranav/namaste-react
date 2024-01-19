@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Pranav Rai",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p4pranav/namaste-react.git"
+  },
+  "author": "Pranav Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p4pranav/namaste-react/issues"
+  },
+  "homepage": "https://github.com/p4pranav/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
